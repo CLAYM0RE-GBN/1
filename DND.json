@@ -1,0 +1,73 @@
+{
+  "origin": ["#clarification# #emoji# #intro# #character# #action# #location#, where they #quest#. #middle# #ending#"],
+  "clarification": ["Complete your great adventure by refreshing the page!\n"],
+  "emoji": [
+    "🤘",
+    "🤔",
+    "😅",
+    "🤓",
+    "🤠",
+    "😱",
+    "💩",
+    "😻",
+    "😾",
+    "🙈",
+    "🧕",
+    "🧙",
+    "💁",
+    "🤦",
+    "💆",
+    "👳",
+    "👌",
+    "🤙",
+    "💞",
+    "💖",
+    "👅",
+    "🙏",
+    "💅",
+    "🦍",
+    "🐶",
+    "🐈",
+    "🦀",
+    "🐙",
+    "🦂",
+    "🍱",
+    "🔛",
+    "🔝",
+    "⚠",
+    "🚮",
+    "🆗",
+    "🆒",
+    "🆓",
+    "🆕",
+    "💯",
+    "😓",
+    "😭"
+  ],
+   "intro": ["In a realm where magic and monsters intertwined, danger lurked at every shadowy corner. The land was an enchanting tapestry of beauty and peril,", "Amidst a world where ancient mysteries danced in the wind, secrets whispered by forgotten stones,"],
+  "character": ["A #race# #occupation#", "A #race# #occupation#"],
+  "race": ["The valiant human","Mysterious elves","Cunning dwarves","The fierce orcs","The mysterious dragonbloods","Elegant halflings","The stoic Goblins","Fearless dragonborn","The wise gnomes","The dexterous catman"],
+  "occupation": ["warrior", "sorcerer", "rogue", "paladin", "bard", "cleric", "ranger"],
+  "action": ["set forth on an epic journey", "ventured deep into the heart of", "undertook a perilous quest to", "answered the call to adventure and embarked on a treacherous journey to","For a previous promise with a friend, travel to"],
+  "location": ["the ancient ruins", "the enchanted forest", "the treacherous mountains", "the forgotten city of legends", "the cursed swamps", "the celestial citadel","the echoing catacombs","the mystical glade","the perilous peaks","the hidden valley of myths","the haunted marshes","the ethereal observatory","the ancient labyrinth","the enchanted grove","the treacherous chasm","the forgotten realm of spirits"],
+  "quest": ["uncover a long-lost artifact", "defeat a fearsome dragon", "break the curse haunting the land", "retrieve a powerful relic hidden in the heart of darkness", "forge an alliance between warring kingdoms", "restore a shattered celestial gem","unravel the mysteries of an ancient tome","conquer the legendary kraken","dispel the malevolent spirits that plague the village","reclaim the stolen crown of the realm","seek out the lost city of the wise sages"],
+  "middle": [
+    "As they journeyed deeper into the enchanted forest, ancient trees whispered long-forgotten secrets, and the air was charged with arcane energy. Doubts began to creep into their hearts under the weight of their responsibility. The fate of kingdoms rested heavily on their shoulders, a burden almost too immense to bear. They were not mere adventurers; they were diplomats of destiny.",
+    "Emerging from the shadows, mystical creatures tested their resolve and challenged their purpose. The alliance they sought to forge appeared as elusive as the ethereal light filtering through the dense canopy. The path ahead was veiled in uncertainty, yet they pressed on, driven by a glimmer of hope that surpassed their doubts.",
+    "Amidst echoing walls, ancient incantations seemed to murmur, and the air carried forgotten whispers. Uncertainty gnawed at their resolve, weighed down by the expedition's significance. They bore the weight of history's secrets, shouldering a destiny not to be taken lightly.",
+    "Within the howling winds, tales of battles long past were carried, and the earth trembled with the spirits of fallen warriors. Their hearts began to falter under the mounting pressure. The fate of the kingdom teetered on the edge, and the burden was nearly overwhelming.",
+    "In the midst of the cursed place, an ethereal veil whispered ancient curses, and the waters echoed with echoes of sorrow. Doubt eroded their courage, yet they faced the challenge. Charged with the great responsibility of saving the land's fate, they were more than heroes; they were liberators of a realm ensnared by dark magic.",
+    "Venturing into the realm of forgotten gods, ancient echoes reverberated through the air, and the ground seemed to echo with tales of lost civilizations. With each revelation of the Celestial Gem's power, their hearts filled with apprehension. The burden of destiny transcended the mortal realm, a cosmic weight nearly beyond comprehension."
+  ],
+  "ending": [
+    "With unwavering determination, they overcame all odds and emerged victorious. The alliance was sealed, and the warring kingdoms embraced unity. The echoes of their deeds reverberated through time and space. A new era dawned, and the world flourished in newfound harmony. The heroes' names became synonymous with courage and diplomacy, beacons of inspiration for generations to come.",
+    "But in the grand tapestry of destiny, not all threads are destined to shine. As the final battle raged on, they fought valiantly, until their last breaths. Their sacrifice became an indomitable symbol of courage, a beacon that inspired others to take up the mantle of hope. The world mourned their loss, yet their legacy endured, igniting a fire that would burn for generations, reminding all that even in the face of darkness, the light of heroism lives on."
+  ],
+  "glorious_end": [
+    "Their final battle was fierce and unyielding. They fought valiantly, leaving an indelible mark upon history. In their sacrifice, they achieved a glory that would be remembered for generations to come. The bards would sing their tale in taverns across the realms, and minstrels would strum their lutes to melodies of their valor. Monuments would rise in their honor, a testament to their undying spirit."
+  ],
+  "tragic_end": [
+    "Despite their best efforts, the forces of darkness proved too strong. With heavy hearts, they faced their doom. The world mourned the loss of heroes who gave everything for the cause. Yet, in their tragic end, they left behind more than sorrow. They left behind a legacy of resilience, teaching all that even in the face of adversity, courage shines.",
+    "But not all stories are written in stone; some are carved in the annals of time. Their journey was a tale of unyielding spirit, of heroes who dared to dream. In the face of insurmountable odds, they chose to walk a path less traveled, and their story would echo through eternity."
+  ]
+}
